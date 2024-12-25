@@ -6,6 +6,7 @@
     "freecodecamp",
     "npm"
   ],
+  "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
