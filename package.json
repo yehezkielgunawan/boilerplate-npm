@@ -2,6 +2,10 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Yehezkiel Gunawan",
   "description": "This is my desc example",
+  "keywords": [
+    "freecodecamp",
+    "npm"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
